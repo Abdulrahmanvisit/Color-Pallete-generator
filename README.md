@@ -21,5 +21,6 @@ This project was created as part of my journey in learning front-end development
 🚀 How to Use
 
 Clone this repository or download the ZIP file
+
 git clone https://github.com/Abdulrahmanvisit/color-palette-generator.git
 
