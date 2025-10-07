@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Color Palette Generator</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Color Palette Generator</h1>
+
+      <button id="generate-btn">
+        <i class="fas fa-sync-alt" aria-label="Generate new palette"></i> Generate Palette
+      </button>
+
+      <div class="palette-container">
+        <div class="color-box">
+          <div class="color" style="background-color: #e1f5fe"></div>
+          <div class="color-info">
+            <span class="box-value hex-value">#E1F5FE</span>
+            <i class="fas fa-copy copy-btn" title="Copy to clipboard" aria-label="Copy color code"></i>
+          </div>
+        </div>
+        <div class="color-box">
+          <div class="color" style="background-color: #b3e54c"></div>
+          <div class="color-info">
+            <span class="box-value hex-value">#B3E54C</span>
+            <i class="fas fa-copy copy-btn" title="Copy to clipboard" aria-label="Copy color code"></i>
+          </div>
+        </div>
+        <div class="color-box">
+          <div class="color" style="background-color: #81d4fa"></div>
+          <div class="color-info">
+            <span class="box-value hex-value">#81D4FA</span>
+            <i class="fas fa-copy copy-btn" title="Copy to clipboard" aria-label="Copy color code"></i>
+          </div>
+        </div>
+        <div class="color-box">
+          <div class="color" style="background-color: #4fc3f7"></div>
+          <div class="color-info">
+            <span class="box-value hex-value">#4FC3F7</span>
+            <i class="fas fa-copy copy-btn" title="Copy to clipboard" aria-label="Copy color code"></i>
+          </div>
+        </div>
+        <div class="color-box">
+          <div class="color" style="background-color: #29b6f6"></div>
+          <div class="color-info">
+            <span class="box-value hex-value">#29B6F6</span>
+            <i class="fas fa-copy copy-btn" title="Copy to clipboard" aria-label="Copy color code"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>
