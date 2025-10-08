@@ -10,7 +10,8 @@ color-pallete-generator is a simple and interactive web application that allows 
 * 💾 Save your favorite palettes (optional feature)
 * 🧩 Clean and responsive user interface
   
- 🚀 Live Demo
+ 👉 Live Demo:
+ https://Abdulrahmanvisit.github.io/color-pallete-generator/
 
  🛠️ Technologies Used
 
