@@ -11,7 +11,7 @@ color-pallete-generator is a simple and interactive web application that allows 
 * 🧩 Clean and responsive user interface
   
  👉 Live Demo:
- https://Abdulrahmanvisit.github.io/color-pallete-generator/
+ https://Abdulrahmanvisit.github.io/Color-Pallete-generator/
 
  🛠️ Technologies Used
 
